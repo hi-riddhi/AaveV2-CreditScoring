@@ -1,4 +1,3 @@
-# analysis.md
 ## Wallet Credit Score Distribution & Behavioral Insights
 ### 1. Score Distribution Overview
 After processing and scoring all wallets from the Aave V2 transaction dataset, the resulting credit scores were binned into ten equal-width ranges from 0 to 999. The distribution helps reveal overall risk trends and outlier clusters within the protocol.
