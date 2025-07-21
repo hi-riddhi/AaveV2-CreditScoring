@@ -47,7 +47,8 @@ The plot below visualizes the number of wallets in each credit score range:
   - Wallets routinely avoid risk events and participate in both depositing and borrowing in balanced fashion.
 - **Interpretation:**  
   - These addresses exemplify responsible usage: proactive in meeting obligations, using borrowing prudently, and contributing to liquidity. They appear trustworthy and may make good candidates for further protocol rewards or partnership.
-
+### Score Distribution
+![image](wallet_mapped.png)
 ### 3. Summary Insights
 - The credit scoring system effectively segments users by observable risk, highlighting pools of reliable participants and flagging behaviors associated with default or exploitation.
 - The distribution is somewhat bimodal, with a significant portion of high-scoring users, but also many low scorers due to risky or automated wallet behavior.
